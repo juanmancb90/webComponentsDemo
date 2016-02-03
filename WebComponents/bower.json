@@ -1,0 +1,23 @@
+{
+  "name": "WebComponents",
+  "authors": [
+    "juanmanuel chaguendo bermeo <juanman90@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "google-maps": "^3.2.1",
+    "polymer": "Polymer/polymer#^1.2.0",
+    "google-map": "^1.1.9"
+  }
+}
