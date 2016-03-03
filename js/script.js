@@ -1,3 +1,7 @@
+/**
+ * script Poo
+ * @return {[type]} [description]
+ */
 (function() {
 	self.Controller = function(contenedor) {
 		this.context = contenedor;
@@ -17,6 +21,11 @@ function lanzarModal(contexto) {
 	return element;
 }
 
+/**
+ * jQuery Events
+ * @param  {String} ) {	$('#aboutLink').click(function (evt) {		var id [description]
+ * @return {[type]}   [description]
+ */
 $(document).ready(function() {
 	$('#aboutLink').click(function (evt) {
 		var id = 'myModal';
